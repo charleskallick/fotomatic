@@ -1,1 +1,2 @@
 # fotomatic
+Photography landing page
